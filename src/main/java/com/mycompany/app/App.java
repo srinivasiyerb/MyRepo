@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
 		 System.out.println( "Build when change is pushed to github!" );
+		  System.out.println( "Hello World!" );
+		   System.out.println( "Hello World!" );
 		  
     }
 }
