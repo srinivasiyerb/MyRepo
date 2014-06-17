@@ -10,7 +10,8 @@ public class App
     {
 		int i;
 	 System.out.println( "Hello World!" );
-		System.out.println( "Hello World!" );
+		System.out.println( "integration of github and jenkins" );
+		
 		   
 		  
     }
