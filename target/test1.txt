@@ -1,2 +1,2 @@
 #added this file to test the merge from dev branch
-#change from feature-mr- changed in dev
+#change from feature-mr - second commit from feature -mr
